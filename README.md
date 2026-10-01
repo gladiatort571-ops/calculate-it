@@ -51,8 +51,8 @@ c [-p | -c] [-g | -o | -r] [-a] ["expression"]
 | `-p`, `--physics`   | Force physics mode |
 | `-c`, `--chemistry` | Force chemistry mode |
 | `-g`, `--general`   | (with `-c`) general chemistry lookup |
-| `-o`, `--organic`   | (with `-c`) organic chemistry lookup (organic properties first) |
-| `-r`, `--redox`     | (with `-c`) redox/equilibrium view (Eo values, half-reactions) |
+| `-o`, `--organic`   | (with `-o`) organic chemistry lookup (organic properties first) |
+| `-r`, `--redox`     | (with `-r`) redox/equilibrium view (Eo values, half-reactions) |
 | `-a`, `--ai`        | Force the AI to answer |
 | `-v`, `--version`   | Print version |
 
